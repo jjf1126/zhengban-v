@@ -1,4 +1,5 @@
 name: GHCR CI
+
 permissions: write-all
 on:
   push:
